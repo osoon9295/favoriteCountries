@@ -53,7 +53,7 @@ const CountryList: React.FC = () => {
           })}
         </div>
       </div>
-      <div className="mt-9 w-1/4 p-6 h-full border-2 rounded-xl border-sky-800 w-1/2 ">
+      <div className="mt-9 w-1/2 p-6 h-full border-2 rounded-xl border-sky-800 w-1/2 ">
         <h3 className="text-xl flex justify-center py-1">
           좋아하는 나라를 선택해주세요.
         </h3>
